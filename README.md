@@ -79,5 +79,5 @@ The explanatory variables were grouped into the **following categories**:
 The data were collected from **NBP, GUS, BIK** and **Gov.pl**, with additional indicators calculated from the available data.
 
 <p align="right">
-  <a href="01_preliminary_analysis.md">➡️ Next: Preliminary Analysis</a>
+  <a href="project-workflow/01_preliminary_analysis.md">➡️ Next: Preliminary Analysis</a>
 </p>
