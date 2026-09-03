@@ -42,5 +42,5 @@ Since `p < 0.05`, the regression model is **statistically significant as a whole
 ---
 
 <p align="left">
-  <a href="project-workflow/03_regression_models.md">⬅️ Go back to: Regression models</a>
+  <a href="03_regression_models.md">⬅️ Go back to: Regression models</a>
 </p>
