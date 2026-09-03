@@ -37,5 +37,5 @@ A relatively strong correlation was found between **X8 and X11**. However, both 
 ---
 
 <p align="right">
-  <a href="project-workflow/03_regression_models.md">➡️ Next: Regression models</a>
+  <a href="03_regression_models.md">➡️ Next: Regression models</a>
 </p>
