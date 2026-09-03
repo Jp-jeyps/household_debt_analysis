@@ -125,5 +125,5 @@ The **p-value** and **Student's t-tests** confirm the same results for both mode
 ---
 
 <p align="right">
-  <a href="project-workflow/04_final_model_comparison.md">➡️ Next: Final model comparison</a>
+  <a href="04_final_model_comparison.md">➡️ Next: Final model comparison</a>
 </p>
