@@ -40,7 +40,3 @@ Since `p < 0.05`, the regression model is **statistically significant as a whole
 **Actual vs Predicted Household Debt** — comparing observed `Y` with the values predicted by the final regression model.
 
 ---
-
-<p align="left">
-  <a href="03_regression_models.md">⬅️ Go back to: Regression models</a>
-</p>
